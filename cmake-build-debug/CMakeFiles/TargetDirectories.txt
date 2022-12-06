@@ -1,0 +1,3 @@
+C:/Users/hamdan/CLionProjects/cpp_basic_opengl/cmake-build-debug/CMakeFiles/cpp_basic_opengl.dir
+C:/Users/hamdan/CLionProjects/cpp_basic_opengl/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hamdan/CLionProjects/cpp_basic_opengl/cmake-build-debug/CMakeFiles/rebuild_cache.dir
